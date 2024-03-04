@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HecelemeAlgoritmasi", "HecelemeAlgoritmasi\HecelemeAlgoritmasi.csproj", "{5B89EBAB-DF2C-4008-AC0B-F7E575E0ECDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayilarıKelimelereCevirmeAlgoritmasi", "SayilarıKelimelereCevirmeAlgoritmasi\SayilarıKelimelereCevirmeAlgoritmasi.csproj", "{AFC3D151-A866-458A-A1D5-5931D5048C66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B89EBAB-DF2C-4008-AC0B-F7E575E0ECDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B89EBAB-DF2C-4008-AC0B-F7E575E0ECDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B89EBAB-DF2C-4008-AC0B-F7E575E0ECDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B89EBAB-DF2C-4008-AC0B-F7E575E0ECDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFC3D151-A866-458A-A1D5-5931D5048C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC3D151-A866-458A-A1D5-5931D5048C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC3D151-A866-458A-A1D5-5931D5048C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC3D151-A866-458A-A1D5-5931D5048C66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18FAB17C-1102-4F57-BDD3-32678A3482ED}
+	EndGlobalSection
+EndGlobal
